@@ -12,7 +12,7 @@
 
 # CONTENT 
 
-1. [Problem](https://www.hackerearth.com/practice/data-structures/trees/binary-search-tree/practice-problems/algorithm/monk-and-his-friends/) [Monk and his Friends](MonkAndHisFriends.java)
-2. [Problem](https://codeforces.com/problemset/problem/782/A?f0a28=1) [Andryusha and Socks](AndryushaAndSocks.java)
-3. [Problem](https://codeforces.com/problemset/problem/22/A) [Second Order Statistics](SecondOrderStatistics.java)
+1. Monk and his Friends [Problem](https://www.hackerearth.com/practice/data-structures/trees/binary-search-tree/practice-problems/algorithm/monk-and-his-friends/) [Solution](MonkAndHisFriends.java)
+2. Andryusha and Socks [Problem](https://codeforces.com/problemset/problem/782/A?f0a28=1) [Solution](AndryushaAndSocks.java)
+3. Second Order Statistics [Problem](https://codeforces.com/problemset/problem/22/A) [Solution](SecondOrderStatistics.java)
 4. 
