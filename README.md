@@ -6,7 +6,7 @@
 
 <sub>Author:
 <a href="https://ajay3007.github.io/" target="_blank">Ajay Gupt</a><br>
-<small>&copy; Ajay Kumar Gupt, 2021</small>
+<small>&copy; Ajay Kumar Gupt, 2022</small>
 </sub>
 
 </div>
@@ -14,7 +14,9 @@
 
 **Welcome!**
 
-Here, you will get solutions of <b>POTW</b>.
+Here, you will get solutions of <b>[POTW](https://www.copsiitbhu.co.in/resources/cp/potw/)</b>.
+
+
 
 
 # CONTENTS
