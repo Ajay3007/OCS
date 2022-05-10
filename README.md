@@ -1,5 +1,5 @@
-# OCS<div align="center">
-  <h1>Learn Java</h1>
+<div align="center">
+  <h1>OCS : Operation Company Switch</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/ajay-gupt-a93b53192/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
